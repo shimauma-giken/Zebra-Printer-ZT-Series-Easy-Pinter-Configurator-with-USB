@@ -1,0 +1,296 @@
+
+###########################################
+Zebra Technologies
+Feed back.get Results 2022/02/18 Updated
+Autor: Zebra Senior Sales Engineer
+###########################################
+
+
+# General
+---------------------
+Type		= ZT411R
+SKU		= ZT41143-T5P00B0Z
+Firmware	= V92.21.17
+Serial number	= 99J201600719
+
+
+# Bluetooth
+---------------------
+Version		= 6.2
+Date		= 01/01/2020
+Friendly name	= 99J201600719
+Min security	= 3
+Discoverable	= off
+Radio ver	= 5.2
+Enable		= on
+Connected	= no
+Long Address	= AC:3F:A4:E9:E8:5B
+Short Address	= AC3FA4E9E85B
+
+
+# Networks
+---------------------
+DHCP		= on
+DHCP Server	= 0.0.0.0
+IP Address	= 0.0.0.0
+Netmask		= 255.255.255.0
+Gateway		= 0.0.0.0
+Port		= 6101
+
+
+# Mirror
+---------------------
+Server		= 127.0.0.1
+Home Dir	= Zebra
+Appl Dir	= 
+Feedback Dir	= Zebra/feedback
+Mode		= ftp
+Success	Date	= Jan 26 2023 13:52:19
+Error Msg	= No Error
+
+
+# Ntp/RTC
+---------------------
+Ntp Enabled	= on
+Ntp Server	= ntp.nict.jp
+RTC Time	= 13:52:54
+RTC Date	= 01-26-2023
+RTC Timezone	= UTC-09
+RTC Exists	= yes
+
+
+
+# Display
+---------------------
+Language	= japanese
+
+
+# Media Settings
+---------------------
+Printmode	= tear off
+Thermal mode	= TT
+Sense mode	= gap
+Speed		= 6.0
+Darkness	= 10.0
+Width		= 1248
+Max length	= 15
+
+
+# Printer Actions
+---------------------
+Media power up	= feed
+Media head close= feed
+
+
+# RFID Settings
+---------------------
+rfid.reader_1.power.read	= 16
+rfid.reader_1.power.write	= 16
+rfid.position.program		= F0
+rfid.reader_1.antenna_port	= A4
+
+
+# Syslog
+---------------------
+Enable		= off
+Config		= 
+Local file	= no
+
+
+# ZBI
+---------------------
+Enable		= on
+State		= off
+key		= ENABLED 
+Running Program	= 
+
+
+# Virtual Devices
+---------------------
+apl.
+apl.enable : none , Choices: apl-d,apl-e,apl-i,apl-m,apl-s,pdf,none
+apl.framework_version : 1.4 
+apl.version : none 
+apl.installed_versions : apl-d:2.0,apl-e:2.07,apl-i:2.0,apl-m:1.18,apl-s:1.23,pdf:2.08-02,,, 
+apl.settings :  
+apl.o.
+apl.o.graphics_byte_width : 0 , Choices: 0-255
+
+
+# Maintenance
+---------------------
+Label length/odo= 12220 INCHES, 31041 CENTIMETERS
+Print length/odo= 0
+
+
+# Stored Files
+---------------------
+
+- DIR *:*.* 
+* E:ANMDJ.TTF  22927536          
+* E:CG_TIMES.TTF     62252          
+* E:CG_TRIUMVIRATE.TTF     63560          
+* E:EFONT_A.TTF     35356          
+* E:EFONT_B.TTF     34176          
+* E:EFONT_C.TTF     34316          
+* E:FEEDBACK.BAK      2811          
+* E:FEEDBACK.GET      2747          
+* E:HITOTUBO.BAS     14760          
+* E:IPAG.TTF   6235344          
+* E:IPAGP.TTF   6235712          
+* E:JIS.DAT     28232          
+* E:M_BOLD.TTF     19920          
+* E:M_CG_6PT.TTF     57692          
+* E:M_CG_BOLD.TTF     74640          
+* E:M_CP0.DAT      1024          
+* E:M_CP1.DAT      1024          
+* E:M_CP437.DAT      1024          
+* E:M_CP850.DAT      1024          
+* E:M_HR1.TTF      7184          
+* E:M_HR2.TTF      7192          
+* E:M_REDUCED.TTF     19964          
+* E:M_STANDARD.TTF     23004          
+* E:NOTOMRJ.TTF  18257232          
+* E:PC437.DAT      1024          
+* E:PC850.DAT      1024          
+* E:PC850SPAINI.DAT      1024          
+* E:SGMTJ.TTF   4248848          
+* E:SYSLOG.TXT      9988          
+* E:S_CP737.DAT      1024          
+* E:S_CP850_0.DAT      1024          
+* E:S_CP850_1.DAT      1024          
+* E:S_CP864.DAT      1024          
+* E:S_CP885.DAT      1024          
+* E:S_HELVETICA_A.TTF     66424          
+* E:S_HELVETICA_B.TTF     66776          
+* E:S_ISO_8859_1.DAT      1024          
+* E:S_ISO_8859_2.DAT      1024          
+* E:S_ISO_8859_5.DAT      1024          
+* E:TT0003M_.TTF    169188          
+* E:USBTIMESTAMP.DAT       216          
+* Z:0.TTF    125904  P    0  
+* Z:A.FNT      6839  P    A  
+* Z:ALERTCFG.NRD      5877  P       
+* Z:AZTEC.BAR         0  P       
+* Z:B.FNT      7746  P    B  
+* Z:CODABAR.BAR         0  P       
+* Z:CODABLK.BAR         0  P       
+* Z:CODE11.BAR         0  P       
+* Z:CODE128.BAR         0  P       
+* Z:CODE39.BAR         0  P       
+* Z:CODE49.BAR         0  P       
+* Z:CODE93.BAR         0  P       
+* Z:D.FNT     10648  P    CD 
+* Z:E12.FNT     15691  P    E  
+* Z:E24.FNT     47056  P       
+* Z:E6.FNT      8520  P       
+* Z:E8.FNT     10893  P       
+* Z:EAN-13.BAR         0  P       
+* Z:EAN-8.BAR         0  P       
+* Z:ELEMENTOUT.ZPL      3830  P       
+* Z:EPL1.FNT     17718  P       
+* Z:EPL2.FNT     20918  P       
+* Z:EPL3.FNT     24118  P       
+* Z:EPL4.FNT     32870  P       
+* Z:EPL5.FNT     58038  P       
+* Z:EPL6.FNT      8498  P       
+* Z:EPL7.FNT      8928  P       
+* Z:F.FNT     13275  P    F  
+* Z:FIRSTDOTLOCATION.ZPL     10420  P       
+* Z:FONT0.FNT      5901  P       
+* Z:FONT1.FNT      7134  P       
+* Z:FONT2.FNT     11484  P       
+* Z:FONT3.FNT     10804  P       
+* Z:FONT4.FNT     15676  P       
+* Z:FONT5.FNT     19852  P       
+* Z:FONT6.FNT     27508  P       
+* Z:FONT7.FNT     11252  P       
+* Z:FONT8.FNT      6412  P       
+* Z:G.FNT     49663  P    G  
+* Z:GS.FNT      5470  P    ?  
+* Z:H12.FNT     11536  P    H  
+* Z:H24.FNT     30436  P       
+* Z:H6.FNT      7247  P       
+* Z:H8.FNT      7825  P       
+* Z:I2OF5.BAR         0  P       
+* Z:IDMATRIX.BAR         0  P       
+* Z:IMAGECOMPRESSION.ZPL      9524  P       
+* Z:IND2OF5.BAR         0  P       
+* Z:LANGUAGE.BMP       400  P       
+* Z:LOGMARS.BAR         0  P       
+* Z:LOGO.PNG     20154  P       
+* Z:MAXICODE.BAR         0  P       
+* Z:MIB200.TXT     45319  P       
+* Z:MICROPDF.BAR         0  P       
+* Z:MSICODE.BAR         0  P       
+* Z:NETWORK.BMP       400  P       
+* Z:ONEDOT.BMP        58  P       
+* Z:P.FNT       116  P    P  
+* Z:PDF417.BAR         0  P       
+* Z:PLANETCD.BAR         0  P       
+* Z:PLESSEY.BAR         0  P       
+* Z:PORTS.BMP       400  P       
+* Z:POSTNET.BAR         0  P       
+* Z:Q.FNT       116  P    Q  
+* Z:QRCODE.BAR         0  P       
+* Z:R.FNT       116  P    R  
+* Z:REGDB.NRD    531266  P       
+* Z:RESETNET.NRD         3  P       
+* Z:RFIDRCPE.XML     38416  P       
+* Z:RFID_HOP.NRD     92431  P       
+* Z:RSS.BAR         0  P       
+* Z:S.FNT       116  P    S  
+* Z:S2OF5.BAR         0  P       
+* Z:SENSORS.BMP       400  P       
+* Z:SERVER      2048  P       
+* Z:SETTINGS.BMP       400  P       
+* Z:SIGNAL_STRENGTH_0_BAR_ICON.BMP       128  P       
+* Z:SIGNAL_STRENGTH_1_BAR_ICON.BMP       128  P       
+* Z:SIGNAL_STRENGTH_2_BAR_ICON.BMP       128  P       
+* Z:SIGNAL_STRENGTH_3_BAR_ICON.BMP       128  P       
+* Z:SIGNAL_STRENGTH_4_BAR_ICON.BMP       128  P       
+* Z:T.FNT       116  P    T  
+* Z:T0000.FNT      7532  P       
+* Z:T0001.FNT      8044  P       
+* Z:T0002.FNT     12376  P       
+* Z:T0007.FNT      7532  P       
+* Z:T0020.FNT       116  P       
+* Z:T0021.FNT       116  P       
+* Z:T0022.FNT       116  P       
+* Z:T0023.FNT     27436  P       
+* Z:T0024.FNT     25048  P       
+* Z:T0025.TTF     92552  P       
+* Z:T0026.TTF     96400  P       
+* Z:T0028.TTF    121260  P       
+* Z:T0030.FNT       116  P       
+* Z:T0031.FNT       116  P       
+* Z:T0032.FNT       116  P       
+* Z:T0033.FNT       116  P       
+* Z:T0034.FNT       116  P       
+* Z:T0035.FNT       116  P       
+* Z:T0036.FNT       116  P       
+* Z:T0037.FNT       116  P       
+* Z:T0038.FNT       116  P       
+* Z:T0039.FNT       116  P       
+* Z:T0040.FNT       116  P       
+* Z:T0041.FNT       116  P       
+* Z:T0061.TTF    169188  P       
+* Z:T0062.TTF    129380  P       
+* Z:T0067.TTF    664972  P       
+* Z:TLC39.BAR         0  P       
+* Z:TOOLS.BMP       400  P       
+* Z:TT0003M_.TTF    169188  P       
+* Z:TT0005M_.TTF    141592  P       
+* Z:U.FNT       116  P    U  
+* Z:UIF.SS     11596  P       
+* Z:UPC-A.BAR         0  P       
+* Z:UPC-E.BAR         0  P       
+* Z:UPC-EAN.BAR         0  P       
+* Z:USBCNFIG.NRD         7  P       
+* Z:UTT.SS     11588  P       
+* Z:V.FNT       116  P    V  
+
+-   7569408 bytes free R: RAM 
+-   5611520 bytes free E: ONBOARD FLASH 
+
+

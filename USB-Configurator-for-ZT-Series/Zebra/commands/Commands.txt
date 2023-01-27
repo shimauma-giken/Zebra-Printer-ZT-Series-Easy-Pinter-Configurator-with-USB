@@ -1,0 +1,4 @@
+! U1 setvar "display.language" "japanese"
+! U1 setvar "usb.mirror.enable" "on"
+! U1 setvar "usb.mirror.auto" "on"
+! U1 setvar "usb.mirror.feedback.auto" "on"

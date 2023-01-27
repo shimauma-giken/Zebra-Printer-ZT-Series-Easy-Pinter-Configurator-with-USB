@@ -1,0 +1,329 @@
+
+###########################################
+Zebra Technologies
+Feed back.get Results 2022/02/18 Updated
+Autor: Zebra Senior Sales Engineer
+###########################################
+
+
+# General
+---------------------
+Type		= ZT610
+SKU		= not programmed
+Firmware	= V80.20.29Z
+Serial number	= 71J184300357
+
+
+# Bluetooth
+---------------------
+Version		= 6.2
+Date		= 01/01/2020
+Friendly name	= 71J184300357
+Min security	= 3
+Discoverable	= off
+Radio ver	= 4.1
+Enable		= on
+Connected	= no
+Long Address	= 98:07:2D:78:B9:7A
+Short Address	= 98072D78B97A
+
+
+# Networks
+---------------------
+DHCP		= off
+DHCP Server	= 0.0.0.0
+IP Address	= 192.168.254.10
+Netmask		= 255.255.255.0
+Gateway		= 0.0.0.0
+Port		= 6101
+
+
+# Mirror
+---------------------
+Server		= 127.0.0.1
+Home Dir	= Zebra
+Appl Dir	= 
+Feedback Dir	= Zebra/feedback
+Mode		= ftp
+Success	Date	= Jan 26 2023 14:29:41
+Error Msg	= No Error
+
+
+# Ntp/RTC
+---------------------
+Ntp Enabled	= off
+Ntp Server	= 
+RTC Time	= 14:32:22
+RTC Date	= 01-26-2023
+RTC Timezone	= UTC00
+RTC Exists	= yes
+
+
+
+# Display
+---------------------
+Language	= japanese
+
+
+# Media Settings
+---------------------
+Printmode	= tear off
+Thermal mode	= DT
+Sense mode	= gap
+Speed		= 6.0
+Darkness	= 10.0
+Width		= 832
+Max length	= 15
+
+
+# Printer Actions
+---------------------
+Media power up	= calibrate
+Media head close= calibrate
+
+
+# RFID Settings
+---------------------
+rfid.reader_1.power.read	= 16
+rfid.reader_1.power.write	= 16
+rfid.position.program		= F0
+rfid.reader_1.antenna_port	= A4
+
+
+# Syslog
+---------------------
+Enable		= off
+Config		= 
+Local file	= no
+
+
+# ZBI
+---------------------
+Enable		= on
+State		= off
+key		= DISABLED 
+Running Program	= 
+
+
+# Virtual Devices
+---------------------
+apl.
+apl.enable : none , Choices: apl-d,apl-i,none
+apl.framework_version : 1.4 
+apl.version : none 
+apl.installed_versions : apl-d:2.0,apl-i:2.0 
+apl.settings :  
+apl.o.
+apl.o.graphics_byte_width :  , Choices: 0-255
+
+
+# Maintenance
+---------------------
+Label length/odo= 1509 INCHES, 3833 CENTIMETERS
+Print length/odo= 0
+
+
+# Stored Files
+---------------------
+
+- DIR *:*.* 
+* E:FEEDBACK.BAK      2811          
+* E:FEEDBACK.GET      2747          
+* E:TT0003M_.TTF    169188  P       
+* E:USBTIMESTAMP.DAT       216          
+* Z:0.TTF    125904  P    0  
+* Z:A.FNT      6839  P    A  
+* Z:ALERTCFG.NRD      5151  P       
+* Z:ALERTCFG500.NRD      5178  P       
+* Z:AZTEC.BAR         0  P       
+* Z:B.FNT      7746  P    B  
+* Z:BLUEBCKDARK.BMP    230454  P       
+* Z:BLUETOOTH.WML      7959  P       
+* Z:BLUETOOTH420-COLOR.BMP      8168  P       
+* Z:BLUETOOTH420.BMP       400  P       
+* Z:BLUETOOTH52.BMP       480  P       
+* Z:BLUETOOTHCOLOR.WML      9378  P       
+* Z:BLUETOOTH_ICON.BMP       128  P       
+* Z:BLUETOOTH_NOT_AVAILABLE_ICON.BMP       128  P       
+* Z:CODABAR.BAR         0  P       
+* Z:CODABLK.BAR         0  P       
+* Z:CODE11.BAR         0  P       
+* Z:CODE128.BAR         0  P       
+* Z:CODE39.BAR         0  P       
+* Z:CODE49.BAR         0  P       
+* Z:CODE93.BAR         0  P       
+* Z:D.FNT     10648  P    CD 
+* Z:DATA_BLANK_ICON.BMP       128  P       
+* Z:DATA_ICON.BMP       128  P       
+* Z:DISPLYQR.WML      3002  P       
+* Z:DISPLYQRCOLOR.WML      3189  P       
+* Z:DOWN_ARROW_COLOR.BMP       166  P       
+* Z:DOWN_ARROW_ICON.BMP       122  P       
+* Z:E12.FNT     15691  P       
+* Z:E24.FNT     47056  P       
+* Z:E6.FNT      8520  P       
+* Z:E8.FNT     10893  P    E  
+* Z:EAN-13.BAR         0  P       
+* Z:EAN-8.BAR         0  P       
+* Z:ELEMENTOUT.ZPL      3830  P       
+* Z:ETHERNET_ICON.BMP       128  P       
+* Z:F.FNT     13275  P    F  
+* Z:FIRSTDOTLOCATION.ZPL     10420  P       
+* Z:FONT0.FNT      5901  P       
+* Z:FONT1.FNT      7134  P       
+* Z:FONT2.FNT     11484  P       
+* Z:FONT3.FNT     10804  P       
+* Z:FONT4.FNT     15676  P       
+* Z:FONT5.FNT     19852  P       
+* Z:FONT6.FNT     27508  P       
+* Z:FONT7.FNT     11252  P       
+* Z:FONT8.FNT      6412  P       
+* Z:G.FNT     49663  P    G  
+* Z:GS.FNT      5470  P    ?  
+* Z:H12.FNT     11536  P       
+* Z:H24.FNT     30436  P       
+* Z:H6.FNT      7247  P       
+* Z:H8.FNT      7825  P    H  
+* Z:HOMEMENU.WML      2670  P       
+* Z:HOMEMENUCOLOR.WML      3907  P       
+* Z:I2OF5.BAR         0  P       
+* Z:IDMATRIX.BAR         0  P       
+* Z:IMAGECOMPRESSION.ZPL      9524  P       
+* Z:IND2OF5.BAR         0  P       
+* Z:INDEX.WML      4789  P       
+* Z:INDEXCOLOR.WML      5217  P       
+* Z:LANGUAGE-COLOR.BMP      8168  P       
+* Z:LANGUAGE.BMP       400  P       
+* Z:LANGUAGE.WML     12718  P       
+* Z:LANGUAGE52.BMP       480  P       
+* Z:LANGUAGECOLOR.WML     14648  P       
+* Z:LOGMARS.BAR         0  P       
+* Z:LOGO.PNG     20154  P       
+* Z:MAXICODE.BAR         0  P       
+* Z:MEDIA_BLANK_ICON.BMP       128  P       
+* Z:MEDIA_ICON.BMP       128  P       
+* Z:MIB200.TXT     45459  P       
+* Z:MICROPDF.BAR         0  P       
+* Z:MONOBD15.FNT      5570  P       
+* Z:MSICODE.BAR         0  P       
+* Z:NETWORK-COLOR.BMP      8168  P       
+* Z:NETWORK.BMP       400  P       
+* Z:NETWORK.WML     33763  P       
+* Z:NETWORK52.BMP       480  P       
+* Z:NETWORKCOLOR.WML     39350  P       
+* Z:NJ20WGL4.FNT    359678  P       
+* Z:NJ26WGL4.FNT    566518  P       
+* Z:NK20WGL4.FNT    710064  P       
+* Z:NK26WGL4.FNT   1081154  P       
+* Z:NS20WGL4.FNT   1248664  P       
+* Z:NS26WGL4.FNT   2025530  P       
+* Z:NT20WGL4.FNT    847138  P       
+* Z:NT26WGL4.FNT   1351834  P       
+* Z:ONEDOT.BMP        58  P       
+* Z:P.FNT       116  P    P  
+* Z:PASSWORD.WML      1304  P       
+* Z:PASSWORDCOLOR.WML      1668  P       
+* Z:PDF417.BAR         0  P       
+* Z:PLANETCD.BAR         0  P       
+* Z:PLESSEY.BAR         0  P       
+* Z:PORTS-COLOR.BMP      8168  P       
+* Z:PORTS.BMP       400  P       
+* Z:PORTS.WML      7174  P       
+* Z:PORTS52.BMP       480  P       
+* Z:PORTSCOLOR.WML      8377  P       
+* Z:POSTNET.BAR         0  P       
+* Z:Q.FNT       116  P    Q  
+* Z:QCKCNTDO.WML      3604  P       
+* Z:QCKCNTDOCOLOR.WML      3861  P       
+* Z:QCKCNTMK.WML      2679  P       
+* Z:QCKCNTMKCOLOR.WML      2710  P       
+* Z:QRBCKCOLOR.BMP    230454  P       
+* Z:QRCODE.BAR         0  P       
+* Z:R.FNT       116  P    R  
+* Z:REGDB.NRD    531266  P       
+* Z:RFID-COLOR.BMP      8168  P       
+* Z:RFID.BMP       400  P       
+* Z:RFID.WML      3271  P       
+* Z:RFID52.BMP       480  P       
+* Z:RFIDCOLOR.WML     31653  P       
+* Z:RFIDRCPE.XML     38416  P       
+* Z:RFID_HOP.NRD     92431  P       
+* Z:RIBBON_IN_ICON.BMP       126  P       
+* Z:RIBBON_OUT_ICON.BMP       128  P       
+* Z:RSS.BAR         0  P       
+* Z:S.FNT       116  P    S  
+* Z:S2OF5.BAR         0  P       
+* Z:SENSORS-COLOR.BMP      8168  P       
+* Z:SENSORS.BMP       400  P       
+* Z:SENSORS.WML     10299  P       
+* Z:SENSORS52.BMP       480  P       
+* Z:SENSORSCOLOR.WML     13712  P       
+* Z:SERVER      2048  P       
+* Z:SETTINGS-COLOR.BMP      8168  P       
+* Z:SETTINGS.BMP       400  P       
+* Z:SETTINGS.WML     20837  P       
+* Z:SETTINGS52.BMP       480  P       
+* Z:SETTINGSCOLOR.WML     24642  P       
+* Z:SIGNAL_STRENGTH_0_BAR_ICON.BMP       128  P       
+* Z:SIGNAL_STRENGTH_1_BAR_ICON.BMP       128  P       
+* Z:SIGNAL_STRENGTH_2_BAR_ICON.BMP       128  P       
+* Z:SIGNAL_STRENGTH_3_BAR_ICON.BMP       128  P       
+* Z:SIGNAL_STRENGTH_4_BAR_ICON.BMP       128  P       
+* Z:SPACE10.BMP       222  P       
+* Z:SPACE10COLORLONG.BMP       310  P       
+* Z:SPACE17.BMP       222  P       
+* Z:SPACE20.BMP       222  P       
+* Z:SPACE20COLOR.BMP       222  P       
+* Z:SPACE23COLOR.BMP       222  P       
+* Z:SPACE34.BMP       382  P       
+* Z:T.FNT       116  P    T  
+* Z:T0000.FNT      7532  P       
+* Z:T0001.FNT      8044  P       
+* Z:T0002.FNT     12376  P       
+* Z:T0007.FNT      7532  P       
+* Z:T0020.FNT       116  P       
+* Z:T0021.FNT       116  P       
+* Z:T0022.FNT       116  P       
+* Z:T0023.FNT     27436  P       
+* Z:T0024.FNT     25048  P       
+* Z:T0025.TTF     92552  P       
+* Z:T0026.TTF     96400  P       
+* Z:T0028.TTF    121260  P       
+* Z:T0030.FNT       116  P       
+* Z:T0031.FNT       116  P       
+* Z:T0032.FNT       116  P       
+* Z:T0033.FNT       116  P       
+* Z:T0034.FNT       116  P       
+* Z:T0035.FNT       116  P       
+* Z:T0036.FNT       116  P       
+* Z:T0037.FNT       116  P       
+* Z:T0038.FNT       116  P       
+* Z:T0039.FNT       116  P       
+* Z:T0040.FNT       116  P       
+* Z:T0041.FNT       116  P       
+* Z:T0061.TTF    169188  P       
+* Z:T0062.TTF    129380  P       
+* Z:T0067.TTF    664972  P       
+* Z:TLC39.BAR         0  P       
+* Z:TOOLS-COLOR.BMP      8168  P       
+* Z:TOOLS.BMP       400  P       
+* Z:TOOLS.WML     57002  P       
+* Z:TOOLS52.BMP       480  P       
+* Z:TOOLSCOLOR.WML     63038  P       
+* Z:TT0003M_.TTF    169188  P       
+* Z:TT0005M_.TTF    141592  P       
+* Z:U.FNT       116  P    U  
+* Z:UIF.SS     11596  P       
+* Z:UPC-A.BAR         0  P       
+* Z:UPC-E.BAR         0  P       
+* Z:UPC-EAN.BAR         0  P       
+* Z:UP_ARROW_COLOR.BMP       166  P       
+* Z:UP_ARROW_ICON.BMP       122  P       
+* Z:USBCNFIG.NRD         7  P       
+* Z:UTT.SS     11588  P       
+* Z:V.FNT       116  P    V  
+
+-  33524736 bytes free R: RAM 
+- 536677888 bytes free E: ONBOARD FLASH 
+
+

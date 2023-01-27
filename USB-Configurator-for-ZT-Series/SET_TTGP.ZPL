@@ -20,6 +20,9 @@
 ! U1 setvar "device.syslog.configuration" "DEBUG,LOCAL"
 ! U1 setvar "device.syslog.save_local_file" "yes"
 
+-- feedback
+! U1 setvar "usb.mirror.feedback.auto" "on"
+
 -- RFID 関連
 "rfid.reader_1.power.read" "29"
 "rfid.reader_1.power.write" "30"
